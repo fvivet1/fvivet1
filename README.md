@@ -9,7 +9,7 @@ Mon portfolio : /!\ Work In Progress /!\
 
 ## Contact
 
-mail : florian.vivet@gmail.com
+Mail : florian.vivet@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/florian-vivet-719a97204/
 
