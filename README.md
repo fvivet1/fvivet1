@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Sohar-FV/Sohar-FV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ----------------
 
 #À propos de moi 
