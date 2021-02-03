@@ -2,15 +2,18 @@
 
 <!--
 **Sohar-FV/Sohar-FV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------
 
-Here are some ideas to get you started:
+#À propos de moi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Étudiant en deuxième année de DUT Informatique à l'Université de Limoges, je suis passionné par l'informatique et plus particulièrement par les technologies du Web.
+
+Mon portfolio : /!\ Work In Progress /!\
+----------------
+
+#Contact
+
+mail : florian.vivet@gmail.com
+
+LinkedIn : https://www.linkedin.com/in/florian-vivet-719a97204/
+
