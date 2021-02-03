@@ -1,8 +1,8 @@
-### Hi there 👋 ###
+### Hi there 👋
 
 ----------------
 
-#À propos de moi#
+## À propos de moi
 
 Étudiant en deuxième année de DUT Informatique à l'Université de Limoges, je suis passionné par l'informatique et plus particulièrement par les technologies du Web.
 
@@ -10,7 +10,7 @@ Mon portfolio : /!\ Work In Progress /!\
 
 ----------------
 
-#Contact#
+## Contact
 
 mail : florian.vivet@gmail.com
 
