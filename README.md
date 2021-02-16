@@ -1,6 +1,6 @@
-# Hi there 👋
+# Bienvenue sur mon dépôt GitHub ! 👋
 
-Bienvenue sur mon dépôt GitHub !
+
 
 ## À propos de moi
 
@@ -10,10 +10,9 @@ Vous pourrez retrouver sur ce dépôt les différents projets sur lesquels j'ai 
 
 Mon portfolio : /!\ Work In Progress /!\
 
-### Quelques stats
+## Quelques stats
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohar-FV)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
