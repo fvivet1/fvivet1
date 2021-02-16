@@ -1,5 +1,6 @@
 # Hi there 👋
 
+Bienvenue sur mon dépôt GitHub !
 
 ## À propos de moi
 
