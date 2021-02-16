@@ -12,7 +12,6 @@ Mon portfolio : /!\ Work In Progress /!\
 
 ### Quelques stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohar-FV)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
