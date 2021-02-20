@@ -18,5 +18,5 @@ Mon portfolio : /!\ Work In Progress /!\
 
 Mail : florian.vivet@gmail.com
 
-LinkedIn : https://www.linkedin.com/in/florian-vivet-719a97204/
+LinkedIn : https://www.linkedin.com/in/florian-vivet/
 
