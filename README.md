@@ -8,7 +8,7 @@
 
 Vous pourrez retrouver sur ce dépôt les différents projets sur lesquels j'ai travaillé au cours de mes études.
 
-Mon portfolio : /!\ Work In Progress /!\
+Mon portfolio : https://florianvivet.com
 
 ## Quelques stats
 
