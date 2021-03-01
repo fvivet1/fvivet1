@@ -11,7 +11,7 @@
 
 Étudiant en deuxième année de DUT Informatique à l'Université de Limoges, je suis passionné par l'informatique et plus particulièrement par les technologies du Web.
 
-Vous pourrez retrouver sur ce dépôt les différents projets sur lesquels j'ai travaillé au cours de mes études.
+Vous pourrez retrouver sur ce dépôt les différents projets sur lesquels j'ai travaillé au cours de mes études. N'hésitez pas à jeter un oeil aux projets épinglés 😉
 
 Mon portfolio : https://florianvivet.com
 
