@@ -1,4 +1,4 @@
-![Logo](https://github.com/Sohar-FV/logo.png)
+![Logo](https://github.com/Sohar-FV/Sohar-FV/logo.png)
 
 # Bienvenue sur mon dépôt GitHub ! 👋
 
