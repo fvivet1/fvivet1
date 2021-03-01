@@ -1,4 +1,8 @@
-![Logo](https://github.com/Sohar-FV/Sohar-FV/logo.png)
+ <p align="center">
+    <img style="display: block; margin-left: auto; margin-right: auto; width:" src="https://github.com/Sohar-FV/Sohar-FV/blob/main/logo.png">
+ </p>
+
+
 
 # Bienvenue sur mon dépôt GitHub ! 👋
 
