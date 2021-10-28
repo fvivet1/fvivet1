@@ -6,7 +6,7 @@
 <h1 align="center">Bienvenue sur mon dépôt GitHub !</h1>
 <br>
 
-(!) Cette description mérite un petit coup de poussière, mise à jour de prévu bientôt 😉
+(!) Cette description mérite un petit coup de poussière, mise à jour prévue bientôt 😉
 
 ## À propos de moi
 
