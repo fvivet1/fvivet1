@@ -2,7 +2,7 @@
  <img src="https://github.com/Sohar-FV/Sohar-FV/blob/main/logo.png" alt="logo" width="200"/>
 </p>
 
-
+# (!) Cette description mérite un petit coup de poussière, mise à jour de prévu bientôt ;)
  
 <h1 align="center">Bienvenue sur mon dépôt GitHub !</h1>
 <br>
