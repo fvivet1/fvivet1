@@ -6,11 +6,11 @@
 <h1 align="center">Bienvenue sur mon dépôt GitHub !</h1>
 <br>
 
-(!) Cette description mérite un petit dépoussiérage, mise à jour prévue bientôt.
-
 ## À propos de moi
 
-Étudiant en deuxième année de DUT Informatique à l'Université de Limoges, je suis passionné par l'informatique et plus particulièrement par les technologies du Web.
+Anciennement étudiant en DUT Informatique à l'Université de Limoges, je suis passionné par l'informatique et plus particulièrement par les technologies du Web.
+
+Je poursuis ainsi cette voie en suivant une Licence Professionnelle Développement d'applications Web à Clermont-Ferrand, au sein de l'Université Clermont-Auvergne. J'ai aussi la chance de pouvoir réaliser cette licence en alternance au sein du Centre Jean Perrin, également à Clermont-Ferrand.
 
 Vous pourrez retrouver sur ce dépôt les différents projets sur lesquels j'ai travaillé au cours de mes études. N'hésitez pas à jeter un oeil aux projets épinglés 😉
 
