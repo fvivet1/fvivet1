@@ -14,7 +14,7 @@ Je poursuis ainsi cette voie en suivant une Licence Professionnelle Développeme
 
 Vous pourrez retrouver sur ce dépôt les différents projets sur lesquels j'ai travaillé au cours de mes études. N'hésitez pas à jeter un oeil aux projets épinglés 😉
 
-Mon portfolio : https://florianvivet.com
+Mon portfolio : [https://florianvivet.com](https://sohar-fv.github.io/Portfolio)
 
 ## Quelques stats
 
