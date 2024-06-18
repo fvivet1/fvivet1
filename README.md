@@ -16,12 +16,6 @@ Vous pourrez retrouver sur ce dépôt les différents projets sur lesquels j'ai 
 
 Mon portfolio : https://fvivet1.github.io/Portfolio
 
-## Quelques stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvivet1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvivet1&hide=contribs&theme=tokyonight)
-
 ## Contact
 
 Mail : florian.vivet@gmail.com
