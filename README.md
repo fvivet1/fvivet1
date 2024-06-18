@@ -14,13 +14,13 @@ Je poursuis ainsi cette voie en suivant une Licence Professionnelle Développeme
 
 Vous pourrez retrouver sur ce dépôt les différents projets sur lesquels j'ai travaillé au cours de mes études. N'hésitez pas à jeter un oeil aux projets épinglés 😉
 
-Mon portfolio : https://sohar-fv.github.io/Portfolio
+Mon portfolio : https://fvivet1.github.io/Portfolio
 
 ## Quelques stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohar-FV&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvivet1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sohar-FV&hide=contribs&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fvivet1&hide=contribs&theme=tokyonight)
 
 ## Contact
 
